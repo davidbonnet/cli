@@ -1,6 +1,6 @@
 # CLI for JSS
 
-A command line tool for JSS
+A command line tool for JSS.
 
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/cssinjs/lobby)
 
